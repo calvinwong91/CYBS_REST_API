@@ -1,1 +1,1 @@
-# CYBS_REST_API
+# react_webpack_template
